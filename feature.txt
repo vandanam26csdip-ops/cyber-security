@@ -1,0 +1,8 @@
+# Print a simple message to the screen
+print("Hello, World!")
+
+# Ask the user for their name
+name = input("What is your name? ")
+
+# Greet the user by their name
+print(f"It's nice to meet you, {name}!")
